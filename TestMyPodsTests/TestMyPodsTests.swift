@@ -1,11 +1,3 @@
-//
-//  TestMyPodsTests.swift
-//  TestMyPodsTests
-//
-//  Created by Sergii Tatsii on 12/14/18.
-//  Copyright © 2018 Sergii Tatsii. All rights reserved.
-//
-
 import XCTest
 @testable import TestMyPods
 
